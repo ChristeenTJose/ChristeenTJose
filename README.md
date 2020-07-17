@@ -3,7 +3,7 @@
 
 
 ---
-![COVID-19 INDIA](https://github.com/ChristeenTJose/ChristeenTJose/blob/master/MODEL-COVID-19-IND-V20.gif)
+![GIF](https://github.com/ChristeenTJose/ChristeenTJose/blob/master/Model%201.gif)
 <!--
 **ChristeenTJose/ChristeenTJose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
