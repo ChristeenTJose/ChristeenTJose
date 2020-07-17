@@ -1,11 +1,12 @@
 ---
-### Serious about my career, I am Currently doing my bachelor's degree in Computer Science which includes a specialisation in Bioinformatics. 
+### Serious about my career, I am Currently doing my bachelor's degree in Computer Science with specialisation in Bioinformatics. 
 
 
 ---
 [![](https://github.com/ChristeenTJose/ChristeenTJose/blob/master/Model%201.gif)](https://www.youtube.com/channel/UCeI3SXVHNEL5mBKKgewvJ1Q?view_as=subscriber)
 
-### Click on the video to visit my YouTube channel for computer science projects and tutorials 😄😀😄
+#### Click on the video to visit my YouTube channel for computer science projects and tutorials 😄😀😄
+##### Connect with me on [LinkedIn](https://www.linkedin.com/in/christeen-t-jose-0351b0182/) 
 ---
 <!--
 **ChristeenTJose/ChristeenTJose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
