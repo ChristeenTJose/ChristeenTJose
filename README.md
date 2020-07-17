@@ -1,4 +1,6 @@
-> Serious about my career, I am Currently doing my bachelor's degree in Computer Science which includes a specialisation in Bioinformatics. Artificial Intelligence has always been my domain of interest along with Software Engineering and Bioinformatics. 
+> Serious about my career, I am Currently doing my bachelor's degree in Computer Science which includes a specialisation in Bioinformatics. 
+
+Artificial Intelligence has always been my domain of interest along with Software Engineering and Bioinformatics. 
 
 ---
 
