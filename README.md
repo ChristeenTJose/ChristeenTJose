@@ -1,5 +1,5 @@
 ---
-### Serious about my career, I am Currently doing my bachelor's degree in Computer Science with specialisation in Bioinformatics. 
+### Serious about my career, I am a confident and determined individual, capable of learning new technologies as required. I can work independently as well as in a group.
 
 
 ---
