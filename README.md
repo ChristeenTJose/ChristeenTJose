@@ -3,7 +3,8 @@
 
 
 ---
-![](https://github.com/ChristeenTJose/ChristeenTJose/blob/master/Model%201.gif)
+[![](https://github.com/ChristeenTJose/ChristeenTJose/blob/master/Model%201.gif)](https://www.youtube.com/channel/UCeI3SXVHNEL5mBKKgewvJ1Q?view_as=subscriber)
+
 
 #### Click on the video to visit my YouTube channel for computer science projects and tutorials 😄😀😄
 ##### Connect with me on [LinkedIn](https://www.linkedin.com/in/christeen-t-jose-0351b0182/) 
